@@ -11,11 +11,6 @@ Importante. Comprueba los aspectos legales de tu pais para evitar transmitir en 
 Esta prohibido transmitir en las bandas de satcom sin permiso!
 ------
 
-<h1><span style="color:red">Esta web utiliza principalmente el canal 261.200 el cual puedes consultar en la pagina de [frecuencias](/es/freq.md). 
-  Satélite: Skynet 5B</span></h1> 
-
-------
-
 ## Radios
 
 En la sección de radios encontrarás radios que funcionan con satcom sin modificaciones complejas.  
