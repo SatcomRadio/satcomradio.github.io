@@ -3,6 +3,8 @@
 Welcome to the "Satcom radio" satellite website for hams  
 Please join our [telegram group](https://t.me/satcom_radio) for more discussions.
 
+Website contact [email](satcomradioham@gmail.com)
+
 ------
 
 Important. Check the legal aspects of your country before transmitting in forbidden bands!  
@@ -10,7 +12,8 @@ It is forbidden to transmit on satcom bands without permission!!
 
 ------
 
-<h1><span style="color:red">This website uses mainly the channel 261.200 Rx and 294.950 Tx. Satellite: Skynet 5B</span></h1> 
+<h1><span style="color:red">This website uses mainly the channel 261.200 that you can check on the [frequencies](/freq.md) page.  
+Satellite: Skynet 5B</span></h1> 
 
 ------
 
