@@ -12,11 +12,6 @@ It is forbidden to transmit on satcom bands without permission!!
 
 ------
 
-<h1><span style="color:red">This website uses mainly the channel 261.200 that you can check on the [frequencies](/freq.md) page.  
-Satellite: Skynet 5B</span></h1> 
-
-------
-
 ## Radios
 
 In the radio section you will find radios that work with satcom without complex modifications.  
