@@ -45,7 +45,9 @@ En caso de que quieras tener los siguientes offsets:
 
 Puedes usar el siguiente [firmware](https://satcomradio.github.io/_files/sint13.hex) y subirlo mediante una 
 [arduino](https://ecetechprojects.wordpress.com/2011/08/06/arduino-upload-hex-files-to-attiny85-using-your-arduino-and-avrdude/) 
-al attiny13 del controlador de frecuencia (solo para la version UHF)
+al attiny13 del controlador de frecuencia (solo para la version UHF).  
+  
+También puedes modificar las frecuencias del transverter mediante una Arduino tal y como se explica en [este repositorio](https://github.com/gavazquez/TransverterControl)
 
 # Transversor R1ZH
 
