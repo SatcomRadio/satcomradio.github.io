@@ -47,7 +47,7 @@ You can use the following [firmware](https://satcomradio.github.io/_files/sint13
 [arduino](https://ecetechprojects.wordpress.com/2011/08/06/arduino-upload-hex-files-to-attiny85-using-your-arduino-and-avrdude/) 
 to the attiny13 of the frecuency controller (only for the UHF version).  
   
-You can also modify the frequencies of the transverter using an Arduino as it's explained in [this Github repo](https://github.com/gavazquez/TransverterControl)
+You can also modify the frequencies of the transverter using an Arduino as it's explained in [this Github repository](https://github.com/gavazquez/TransverterControl)
 
 # R1ZH Transverter
 
