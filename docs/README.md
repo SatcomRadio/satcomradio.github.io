@@ -15,8 +15,8 @@ It is forbidden to transmit on satcom bands without permission!!
 ## Radios
 
 In the radio section you will find radios that work with satcom without complex modifications.  
-It's **not** a full list of radios. There are many mods for other radios such as Satcom M7, TYT 9000D 
-but the modifications are more complex and it's easier to stick to the radios listed in this website.
+It's **not** a full list of radios. There are many mods for other radios such as Wouxun KG-UVR5, Satcom M7, TYT 9000D and others  
+but the modifications are more complex or they are expensive and it's easier to stick to the radios listed in this website.
 
 ## Transverter
 
