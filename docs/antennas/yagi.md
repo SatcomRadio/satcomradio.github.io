@@ -9,8 +9,8 @@ If you want to implement circular polarization and make them cross-yagi, be sure
 
 Here you have some of the most common designs used for Satcom. The more elements they have, the better they will work.  
 
-[4 Element Yagi](https://satcomradio.github.io/_pdf/antennas/_pdf/antennas/4EL.pdf)  
-[5 Element Yagi](https://satcomradio.github.io/_pdf/antennas/_pdf/antennas/5EL.pdf)  
-[8 Element Yagi](https://satcomradio.github.io/_pdf/antennas/_pdf/antennas/8EL.pdf)  
-[10 Element Yagi](https://satcomradio.github.io/_pdf/antennas/_pdf/antennas/10EL.pdf)  
-[11 Element Yagi](https://satcomradio.github.io/_pdf/antennas/_pdf/antennas/11EL.pdf)  
+[4 Element Yagi](https://satcomradio.github.io/_pdf/antennas/4EL.pdf)  
+[5 Element Yagi](https://satcomradio.github.io/_pdf/antennas/5EL.pdf)  
+[8 Element Yagi](https://satcomradio.github.io/_pdf/antennas/8EL.pdf)  
+[10 Element Yagi](https://satcomradio.github.io/_pdf/antennas/10EL.pdf)  
+[11 Element Yagi](https://satcomradio.github.io/_pdf/antennas/11EL.pdf)  
