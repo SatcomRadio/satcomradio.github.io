@@ -7,6 +7,8 @@ Without hardware modifications it has an output of 15-17 watts for frequencies a
 
 Changing coils you can achieve 15W in all satcom frequencies.  
 
+Important. Disable the "stun" and "kill" functions trough DTMF in the configuration software!
+
 [Forum](https://vrtp.ru/index.php?showtopic=32042&st=630&#entry920006)  
 [Website with information](https://satcom-uhf.github.io/QYT-KT7900D/)  
 [Relevant video](https://www.youtube.com/watch?v=c77inv-Q0uY)  
