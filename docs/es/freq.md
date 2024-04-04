@@ -3,6 +3,7 @@
 Aqui tienes una tabla con la mayoria de frecuencias con su offset.  
 Ten en cuenta que los distintos satélites tienen frecuencias diferentes, por lo que es posible que muchos de ellos no sean visibles desde tu ubicación.
 En algunas frecuencias todavia no se ha encontrado la frecuencia de TX. Puedes enviarme un [email](satcomradioham@gmail.com) en caso de que la quieras añadir.  
+Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#freq=253650000,mod=nfm,sql=-22) o [Gudynas SDR](https://sdr.gudynas.lt/#freq=146400000,mod=nfm,sql=-150)
   
 |Rx|Tx|Offset|Satellite|Width|Notes|
 |:----|:----|:----|:----|:----|:----|

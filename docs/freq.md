@@ -3,6 +3,7 @@
 Here you have a table with most of the frequencies with their offset.  
 Bear in mind that different satellites have different frequencies so some of them may not be visible from your location.
 In some frequencies the uplink frequency has not been found. You can send me an [email](satcomradioham@gmail.com) if you want to add it.  
+All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#freq=253650000,mod=nfm,sql=-22) or [Gudynas SDR](https://sdr.gudynas.lt/#freq=146400000,mod=nfm,sql=-150)
 
 |Rx|Tx|Offset|Satellite|Width|Notes|
 |:----|:----|:----|:----|:----|:----|
