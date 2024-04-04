@@ -16,6 +16,10 @@ In this website we will do one of the simplest modifications and it will give us
 
 Its also recommended to install custom firmwares like the Matoz one to improve reception.
 
+----
+
+There's a more complex mod that involves changing several components but it allows you to get 5W output power [here](https://t.me/uv_k5_8/5/933) and [here](https://t.me/uv_k5_8/5/952)  
+  
 [Original mod pictures](https://forum.cxem.net/index.php?/topic/262822-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0-%D1%80%D1%81%D1%82-quansheng-uv-k5-%D0%BD%D0%B0-satcom)
 [Relevant video of a different mod](https://www.youtube.com/watch?v=cuCjfeUxKGw)  
 [Relevant video of a different mod](https://www.youtube.com/watch?v=c110XUpw7cY)  
