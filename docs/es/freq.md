@@ -81,7 +81,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |249.345|302.945|53.600|UFO 11|6 khz| |
 |249.355|302.955|53.600|UFO 11|6 khz| |
 |249.400|300.975|51.575|COMSATBW-1|35 khz| |
-|249.450|X| |Skynet 5C|40 khz|280-290 I 310-320|
+|249.450|?| |Skynet 5C|40 khz| |
 |249.490|313.950|64.460| | |30 khz|
 |249.530|298.800|49.270|Skynet 5A| |Same as 247.450|
 |249.560|X| | |6 khz| |
@@ -90,7 +90,6 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |249.890|300.500|50.610|Skynet 5B?| | |
 |249.930|308.750|58.820|Skynet 5B|35 khz| |
 |250.090|312.600|62.510| |30 khz| |
-|250.200|X| |Skynet 5A/SDS3 USA 236|30 khz|314.450?|
 |250.900|308.300|57.400|COMSATBW-2| |No SDR visible|
 |251.000|296.500|45.500| | |296.500?|
 |251.275|296.500|45.225|USA 198|30 khz| |
