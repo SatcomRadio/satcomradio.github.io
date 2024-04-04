@@ -150,6 +150,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |257.250|316.900|59.650|Sicral 2|30 khz| |
 |257.300|309.725|52.425|Sicral 2|30 khz| |
 |257.350|307.200|49.850|Sicral 2|30 khz| |
+|257.450|305.950|48.500|Skynet 4B|40 khz| |
 |257.500|311.350|53.850|Skynet 4E|40 khz| |
 |257.600|?| |Skynet 5A|40 khz|311.200?|
 |257.700|316.150|58.450|Skynet 4E/5A|40 khz| |
