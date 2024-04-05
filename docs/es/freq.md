@@ -208,7 +208,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |262.425|296.025|33.600|UFO 10/11/Lea F5|30 khz|Pacific ocean|
 |263.400|316.400|53.000|Sicral 2|35 khz| |
 |263.450|311.400|47.950|Sicral 2|35 khz| |
-|263.575|X| |UFO 11|25 khz|297.175?|
+|263.575|297.175| |UFO 11|30 khz| |
 |263.600|X| |USA 207|6 khz| |
 |263.625|297.225|33.600|UFO 7/10/11|30 khz| |
 |263.675|297.275|33.600|UFO 11|25 khz| |
