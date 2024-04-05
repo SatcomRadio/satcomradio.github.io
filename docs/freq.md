@@ -145,7 +145,6 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |257.150|298.150|41.000|Satcom 8|30 khz|Beacon (Alarm)|
 |257.200|308.800|51.600|Sicral 2|30 khz| |
 |257.250|316.900|59.650|Sicral 2|30 khz| |
-|257.250|316.900|59.650|Sicral 2|30 khz| |
 |257.300|309.725|52.425|Sicral 2|30 khz| |
 |257.350|307.200|49.850|Sicral 2|30 khz| |
 |257.450|305.950|48.500|Skynet 4B|40 khz| Spanish |
