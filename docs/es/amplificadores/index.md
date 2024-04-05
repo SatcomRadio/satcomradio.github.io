@@ -12,7 +12,7 @@ Para aumentar la potencia de transmisión consiguen uno de los amplificadores VH
 <img height="350" src="/../_img/amplifier/board.png" />
 <img height="350" src="/../_img/amplifier/amplifier_chip.jpg" />
 
-Para que el amplificador funcione, lo ideal es un  módulo de potencia RA55H3340, RA30H3340 o RA60H3340 aunque algunas personas utilizan un RA30H2127 u otros
+Para que el amplificador funcione, lo ideal es un  módulo de potencia RA30H3340 aunque algunas personas utilizan un RA55H3340, RA60H3340, RA30H2127M u otros aunque con menor potencia de salida.  
 
 Esos amplificadores suelen funcionar a 12 voltios, pero algunas personas aumentan su voltaje hasta un límite de 18 voltios 
 para obtener más potencia cuando funcionan fuera de sus frecuencias designadas.  

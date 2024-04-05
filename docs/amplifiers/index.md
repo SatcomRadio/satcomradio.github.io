@@ -12,7 +12,7 @@ To increase the transmit power they get one of the VHF/UHF amplifiers on aliexpr
 <img height="350" src="/../_img/amplifier/board.png" />
 <img height="350" src="/../_img/amplifier/amplifier_chip.jpg" />
 
-To make the amplifier work, ideally it needs a RA55H3340, RA30H3340 or RA60H3340 power module altough some people use a RA30H2127M and others
+To make the amplifier work, ideally it needs a RA30H3340 power module altough some people use a RA55H3340, RA60H3340, RA30H2127M and others but with less output power.  
 
 Those amplifiers usually work at 12 volts but some people increase their voltage up to a limit of 18 volts 
 to get more power when they are running outside of their designated frequencies.  
