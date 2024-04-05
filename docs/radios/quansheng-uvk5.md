@@ -12,7 +12,7 @@ In this website we will do one of the simplest modifications and it will give us
 2. Remove the capacitors shown in the picture and replace them with 4 turn coils of 0.3mm enameled wire with 1.5mm diameter (You can use a drill bit to coil the wire around it).
 
 <img height="450" src="/../_img/radios/k5_mod.png" />
-<img height="450" src="/../_img/radios/k5_result.png" />
+<img height="450" src="/../_img/radios/k5_result.jpg" />
 
 Its also recommended to install custom firmwares like the Matoz one to improve reception.
 

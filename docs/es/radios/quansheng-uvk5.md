@@ -12,7 +12,7 @@ En esta web nos centraremos en una modificación sencilla que nos dara unos 3-4W
 2. Quitar los condensadores marcados y poner bobinas de 4 vueltas de alambre esmaltado de 0.3mm y 1.5mm de diámetro (se puede usar una broca para enrollarla).
 
 <img height="450" src="/../_img/radios/k5_mod.png" />
-<img height="450" src="/../_img/radios/k5_result.png" />
+<img height="450" src="/../_img/radios/k5_result.jpg" />
 
 También se recomienda instalar firmwares personalizados como el de Matoz.
 
