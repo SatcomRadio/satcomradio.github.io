@@ -14,7 +14,9 @@ In this website we will do one of the simplest modifications and it will give us
 <img height="450" src="/../_img/radios/k5_mod.png" />
 <img height="450" src="/../_img/radios/k5_result.jpg" />
 
-Its also recommended to install custom firmwares like the Matoz one to improve reception.
+Its recommended to install custom firmwares like Matoz to improve reception.  
+It's essential to use a directive antenna like a yagi or an [amplifier](/amplifiers/index.md) due to the low output power.  
+
 
 ----
 

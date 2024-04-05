@@ -14,7 +14,8 @@ En esta web nos centraremos en una modificación sencilla que nos dara unos 3-4W
 <img height="450" src="/../_img/radios/k5_mod.png" />
 <img height="450" src="/../_img/radios/k5_result.jpg" />
 
-También se recomienda instalar firmwares personalizados como el de Matoz.
+Se recomienda instalar firmwares personalizados como el de Matoz.  
+Es indispensable utilizar una antena directiva (yagi) o un [amplificador](/es/amplificadores/index.md) debido a la poca potencia de emision.  
 
 
 ----
