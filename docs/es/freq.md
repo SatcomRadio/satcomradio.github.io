@@ -181,10 +181,10 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |260.675|294.275|33.600|UFO F2/UFO F10/ UFO F11|30 khz| |
 |260.725|?| |UFO 10|30 khz|294.325? Occupied. Noisy|
 |261.100|298.700|37.600|Skynet 5A|35 khz|DMR in 261.11|
-|261.200|294.950|33.750|Skynet 5B| |Italian, Romanian, Spanish|
+|261.200|294.950|33.750|Skynet 5B|35 khz|Italian, Romanian, Spanish|
 |261.450|295.050|33.600|Satcom 8| |Pacific ocean|
 |261.500|295.100|33.600|Satcom 8| |Pacific ocean|
-|261.620|295.220|33.600|UFO?| |SDR Only visible on TX. Brazil|
+|261.620|295.220|33.600|UFO?|35 khz|SDR Only visible on TX. Brazil|
 |261.675|295.275|33.600|Satcom 8/UFO11| |Pacific ocean|
 |261.775|295.375|33.600|Satcom 8/UFO11| |Pacific ocean|
 |261.825|295.425|33.600|UFO7/8/11| |Pacific ocean|
