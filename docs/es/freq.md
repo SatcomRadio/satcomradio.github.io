@@ -128,7 +128,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |254.675|?| |Intelsat 22|6 khz| |
 |254.730|312.550|57.820|Skynet 5C|40 khz| |
 |254.775|310.800|56.025|Comsat BW2|40 khz|DMR|
-|255.250|302.475|47.225|UFO 10/UFO 11|30 khz|31 khz|
+|255.250|302.475|47.225|UFO 10/UFO 11|30 khz||
 |255.350|296.350|41.000|UFO 2|30 khz| General Chat |
 |255.400|296.400|41.000|UFO 11|30 khz| |
 |255.450|296.450|41.000|UFO7|30 khz|Pacific ocean|
