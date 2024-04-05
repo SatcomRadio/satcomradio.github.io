@@ -90,7 +90,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |249.930|308.750|58.820|Skynet 5B|35 khz| |
 |250.090|312.600|62.510| |30 khz| |
 |250.900|308.300|57.400|COMSATBW-2| |No SDR visible|
-|251.000|296.500|45.500| | |296.500?|
+|251.000|296.500|45.500| | ||
 |251.275|296.500|45.225|USA 198|30 khz| |
 |251.325|X| |SDS 3-2| | |
 |251.400|X| | |20 khz| |
@@ -135,7 +135,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |255.550|296.550|41.000|Satcom 8|20 khz| |
 |255.775|309.300|53.525|Comsat BW1|40 khz||
 |255.850|?| |Intelsat 22|6 khz| |
-|256.600|305.950|49.350|Skynet 5C|30 khz|Dead?|
+|256.600|?| |Skynet 5C|30 khz|305.950? Dead? No SDR Visible|
 |256.850|297.850|41.000|UFO 10/UFO 11|30 khz| |
 |256.900|296.100|39.200|UFO 11|30 khz|SDR Blurry|
 |256.950|297.950|41.000|UFO 2|30 khz| |
@@ -196,7 +196,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 |262.100|294.350|32.250|LEA F5/MUOS|30 khz| |
 |262.125|295.725|33.600|UFO 10 - LEA F5|30 khz| |
 |262.150|?| |LEA F5/MUOS|30 khz| |
-|262.175|297.025|34.850|Ufo F2-LeaF5|30 khz|31 khz|
+|262.175|297.025|34.850|Ufo F2-LeaF5|30 khz| |
 |262.225|295.825|33.600|UFO 10/ LEA 5| |Buzzing sound|
 |262.250|?| |MUOS 2/3|25 khz| |
 |262.275|300.275|38.000|UFO 2/10/11-LeaF5|30 khz| |
