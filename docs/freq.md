@@ -88,7 +88,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |249.850|316.250|66.400|Skynet 5A|40 khz| |
 |249.890|300.500|50.610|Skynet 5B?| | |
 |249.930|308.750|58.820|Skynet 5B|35 khz| |
-|250.090|312.600|62.510| |30 khz| |
+|250.090|312.600|62.510|Skynet 5A|40 khz| |
 |250.900|308.300|57.400|COMSATBW-2| |No SDR visible|
 |251.000|296.500|45.500| | ||
 |251.275|296.500|45.225|USA 198|30 khz| |
