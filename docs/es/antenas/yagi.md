@@ -19,6 +19,6 @@ En estos enlaces se pueden ver algunos ejemplos de los diseños mas comunes para
 
 -----
 
-Si queires usar un tubo cuadrado de 20x20mm y barras de 8 mm, puedes usar los siguientes stl e imprimirlos en 3d:  
+Si quieres usar un tubo cuadrado de 20x20mm y barras de 8 mm, puedes usar los siguientes stl e imprimirlos en 3d:  
 [Radiante](https://satcomradio.github.io/_stl/Radiant.stl)  
 [Director/Reflector](https://satcomradio.github.io/_stl/Director.stl)  
