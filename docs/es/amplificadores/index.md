@@ -36,11 +36,11 @@ Desafortunadamente parecen ser bastante complejos y es más fácil combinar vari
 <img height="300" src="/../_img/amplifier/pa_modification_simple.png" />
 <img height="300" src="/../_img/amplifier/pa_modification_complex.png" />
 
-Busca los mensajes `RA60H3340M1A` realizados por "Konstantin Z" en el canal ruso Satcom [telegram](/telegram.md) para ver los detalles
+Busca los mensajes `RA60H3340M1A` realizados por "Konstantin Z" en el canal de [telegram](https://t.me/kosmo_konservatoria/221936) para ver los detalles
 
 ## Amplificador personalizado
 
-Hay un amplificador hecho por P0150N en el [telegram](/telegram.md) de Satcom ruso pero su rendimiento no es conocido
+Hay un amplificador hecho por P0150N en el [telegram](https://t.me/kosmo_konservatoria/173846) de Satcom ruso pero su rendimiento no es conocido
 
 <img height="600" src="/../_img/amplifier/custom_amplifier.jpg" />
 
