@@ -23,8 +23,9 @@ You can also get the latest firmware [here](https://satcomradio.github.io/_files
 
 Recently (January 2024) there have been attempts to dissasemble the firmware and implement custom firwares.
 To do so, you can dissasembly the firmware .bin with the *cutter dissasembler* specifying *mcore* as the architecture and *c-sky* as the CPU
+  
+Check [VRTP forum](https://vrtp.ru/index.php?showtopic=33914&st=60) for latest news  
 
 ### Sources:
 
 [Zastone info website](https://telegra.ph/Instrukciya-programmirovaniya-Zastone-UV008-v3-s-AES256-04-03)  
-[Zastone UV008 Telegram group (Russian)](https://t.me/ZastoneUV008)  
