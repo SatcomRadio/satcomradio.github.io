@@ -1,4 +1,4 @@
-![image](https://github.com/SatcomRadio/satcomradio.github.io/assets/161742750/4a9e4999-c8ac-4003-bbcf-aab540759a08)﻿# Frequencies
+# Frequencies
 
 Here you have a table with most of the frequencies with their offset.  
 Bear in mind that different satellites have different frequencies so some of them may not be visible from your location.
