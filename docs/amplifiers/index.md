@@ -36,11 +36,11 @@ Unfortunately they seem to be quite complex and it's just easier to combine mult
 <img height="300" src="/../_img/amplifier/pa_modification_simple.png" />
 <img height="300" src="/../_img/amplifier/pa_modification_complex.png" />
 
-Search `RA60H3340M1A` messages made by "Konstantin Z" on the russian Satcom [telegram](/telegram.md) channel to see the details
+Search `RA60H3340M1A` messages made by "Konstantin Z" on the russian Satcom [telegram](https://t.me/kosmo_konservatoria/221936) channel to see the details
 
 ## Custom amplifier
 
-There's an amplifier made by P0150N in the russian Satcom [telegram](/telegram.md) for RA3ZTQ but it's performance is not known
+There's an amplifier made by P0150N in the russian Satcom [telegram](https://t.me/kosmo_konservatoria/173846) for RA3ZTQ but it's performance is not known
 
 <img height="600" src="/../_img/amplifier/custom_amplifier.jpg" />
 
