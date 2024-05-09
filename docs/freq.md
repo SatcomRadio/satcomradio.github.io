@@ -118,12 +118,14 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |253.650|294.650|41.000|UFO 2|30 khz| |
 |253.726|?| |UFO 11/Skynet 5A|30 khz|294.700?|
 |253.750|294.750|41.000|UFO 7|30 khz| |
+|253.825|ASK|ASK|Satcom 8|20 khz| Old 255.55 |
 |253.850|294.850|41.000|UFO 7|30 khz| |
 |253.900|307.500|53.600|Skynet 5C/5D/4F|30 khz| |
 |253.950|312.800|58.850|Skynet 4A/NATO 4B/Skynet 5B|35 khz| |
 |253.975|294.975|41.000|Intelsat 22|6 khz| |
 |254.000|?| |?|35 khz|298.630?|
 |254.025|295.025|41.000|Intelsat 22|6 khz| |
+|254.150|ASK|ASK||30 khz| |
 |254.500|?| |Intelsat 22|6 khz| |
 |254.530|?| |Intelsat 22|6 khz| |
 |254.625|295.625|41.000|Intelsat 22|6 khz| |
@@ -136,7 +138,6 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |255.350|296.350|41.000|UFO 2|30 khz| General Chat |
 |255.400|296.400|41.000|UFO 11|30 khz| |
 |255.450|296.450|41.000|UFO7|30 khz|Pacific ocean|
-|255.550|296.550|41.000|Satcom 8|20 khz| General Chat |
 |255.775|309.300|53.525|Comsat BW1|40 khz||
 |256.450|ASK|ASK|Skynet 5A/5D|30 khz| No SDR Visible|
 |255.850|?| |Intelsat 22|6 khz| |
@@ -192,6 +193,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |261.500|295.100|33.600|Satcom 8| |Pacific ocean|
 |261.620|295.220|33.600|UFO?|35 khz|SDR Only visible on TX. Brazil|
 |261.675|295.275|33.600|Satcom 8/UFO11| |Pacific ocean|
+|261.725|295.325|33.600|| |No SDR visible|
 |261.775|295.375|33.600|Satcom 8/UFO11| |Pacific ocean|
 |261.825|295.425|33.600|UFO7/8/11| |Pacific ocean|
 |261.875|295.475|33.600|Satcom 8/UFO11| |Pacific ocean|
@@ -268,4 +270,4 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 
 --------
 
-Last Update: 04/04/2024
+Last Update: 09/05/2024
