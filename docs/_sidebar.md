@@ -15,4 +15,3 @@
         * [Monopole](/antennas/monopole.md)
 * [Frequencies](/freq.md)
 * [Web SDR](/sdr.md)
-* [Telegram](/telegram.md)
