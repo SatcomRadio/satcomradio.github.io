@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/10d40a8c-8b1d-490a-a69e-4bcbda29b850)# Frequencies
+# Frequencies
 
 Here you have a table with most of the frequencies with their offset.  
 Bear in mind that different satellites have different frequencies so some of them may not be visible from your location.
@@ -272,4 +272,4 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 
 --------
 
-Last Update: 09/05/2024
+Last Update: 31/07/2024
