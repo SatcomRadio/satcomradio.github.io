@@ -1,4 +1,4 @@
-# Frequencies
+![image](https://github.com/user-attachments/assets/10d40a8c-8b1d-490a-a69e-4bcbda29b850)# Frequencies
 
 Here you have a table with most of the frequencies with their offset.  
 Bear in mind that different satellites have different frequencies so some of them may not be visible from your location.
@@ -7,7 +7,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 
 |Rx|Tx|Offset|Satellite|Width|Notes|
 |:----|:----|:----|:----|:----|:----|
-|243.625|301.025|57.400|COMSATBW-2|30 khz| |
+|243.625|300.400|57.400|COMSATBW-2|30 khz| |
 |243.800|298.200|54.400|Intelsat 22|30 khz| |
 |243.915|317.015|73.100|UFO 11|30 khz| |
 |243.935|317.035|73.100|UFO 12|6 khz| |
@@ -29,45 +29,45 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |244.225|317.325|73.100|UFO 11|6 khz| |
 |244.275|300.250|55.975|COMSATBW-1|40 khz| |
 |245.200|312.850|67.650|Skynet 5B|40 khz| |
-|245.800|ASK|ASK|Skynet 5B|40 khz| |
+|245.800|ASK|ASK|Skynet 5C|40 khz| |
 |245.850|314.230|68.380|Skynet 5A|40 khz| |
 |245.950|299.400|53.450|Skynet 5D|40 khz| |
 |247.450|298.800|51.350|Skynet 5B/5D|40 khz|Same as 249.530|
 |248.750|306.900|58.150|COMSATBW-1|35 khz| |
 |248.825|294.375|45.550|UFO 11|30 khz| |
 |248.845|297.150|48.305|UFO 11|6 khz| |
-|248.855| | |UFO 11|6 khz| |
-|248.865| | |UFO 11|6 khz| |
-|248.875| | |UFO 11|6 khz| |
-|248.885| | |UFO 11|6 khz| |
-|248.895| | |UFO 11|6 khz| |
-|248.905| | |UFO 11|6 khz| |
-|248.915| | |UFO 11|6 khz| |
-|248.925| | |UFO 11|6 khz| |
-|248.935| | |UFO 11|6 khz| |
-|248.945| | |UFO 11|6 khz| |
-|248.955| | |UFO 11|6 khz| |
-|248.965| | |UFO 11|6 khz| |
+|248.855|302.455|53.600|UFO 11|6 khz| |
+|248.865|302.465|53.600|UFO 11|6 khz| |
+|248.875|302.475|53.600|UFO 11|6 khz| |
+|248.885|302.485|53.600|UFO 11|6 khz| |
+|248.895|302.495|53.600|UFO 11|6 khz| |
+|248.905|302.505|53.600|UFO 11|6 khz| |
+|248.915|302.515|53.600|UFO 11|6 khz| |
+|248.925|302.525|53.600|UFO 11|6 khz| |
+|248.935|302.535|53.600|UFO 11|6 khz| |
+|248.945|302.545|53.600|UFO 11|6 khz| |
+|248.955|302.555|53.600|UFO 11|6 khz| |
+|248.965|302.565|53.600|UFO 11|6 khz| |
 |249.000|302.600|53.600|Marisat F2B|6 khz| |
-|249.045| | | |6 khz| |
-|249.050|302.650|53.600|Marisat F2B|6 khz| |
-|249.056| | | |6 khz| |
-|249.066| | | |6 khz| |
-|249.076| | | |6 khz| |
-|249.085| | | |6 khz| |
-|249.100|302.700|53.600|Marisat F2B / UFO 7|6 khz| |
-|249.115|302.715|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.125|302.725|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.135|302.735|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.145|302.745|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.155|302.755|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.165|302.765|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.175|302.775|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.185|302.785|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.195|302.795|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.205|302.805|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.215|302.815|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
-|249.225|302.825|53.600|Marisat F2B / UFO 7|6 khz|No SDR visible|
+|249.045|302.645|53.600|UFO 11|6 khz| |
+|249.050|302.650|53.600|UFO 11|6 khz| |
+|249.055|302.655|53.600|UFO 11|6 khz| |
+|249.065|302.665|53.600|UFO 11|6 khz| |
+|249.075|302.675|53.600|UFO 11|6 khz| |
+|249.085|302.685|53.600|UFO 11|6 khz| |
+|249.100|302.700|53.600|UFO 11|6 khz| |
+|249.115|302.715|53.600|UFO 11|6 khz|No SDR visible|
+|249.125|302.725|53.600|UFO 11|6 khz|No SDR visible|
+|249.135|302.735|53.600|UFO 11|6 khz|No SDR visible|
+|249.145|302.745|53.600|UFO 11|6 khz|No SDR visible|
+|249.155|302.755|53.600|UFO 11|6 khz|No SDR visible|
+|249.165|302.765|53.600|UFO 11|6 khz|No SDR visible|
+|249.175|302.775|53.600|UFO 11|6 khz|No SDR visible|
+|249.185|302.785|53.600|UFO 11|6 khz|No SDR visible|
+|249.195|302.795|53.600|UFO 11|6 khz|No SDR visible|
+|249.205|302.805|53.600|UFO 11|6 khz|No SDR visible|
+|249.215|302.815|53.600|UFO 11|6 khz|No SDR visible|
+|249.225|302.825|53.600|UFO 11|6 khz|No SDR visible|
 |249.235|302.835|53.600|UFO 11|6 khz| |
 |249.245|302.845|53.600|UFO 11|6 khz| |
 |249.255|302.855|53.600|UFO 11|6 khz| |
@@ -82,14 +82,17 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |249.345|302.945|53.600|UFO 11|6 khz| |
 |249.355|302.955|53.600|UFO 11|6 khz| |
 |249.400|300.975|51.575|COMSATBW-1|35 khz| |
+|249.490|?|?|?|30 khz| |
 |249.490|ASK|ASK|?|30 khz| |
-|249.530|298.800|49.270|Skynet 5A|40 khz|Same as 247.450|
-|249.560|X| | |6 khz| |
-|249.579|X| | |6 khz| |
-|249.850|316.250|66.400|Skynet 5A|40 khz| |
-|249.890|300.500|50.610|Skynet 5B?| | |
+|249.530|298.800|49.270|Skynet 5A|30 khz|Same as 247.450|
+|249.560|X| |UFO 11|6 khz| |
+|249.579|X| |UFO 11|6 khz| |
+|249.890|300.500|50.610|Skynet 5A| | |
 |249.930|308.750|58.820|Skynet 5B|35 khz| |
+|249.960|?|?|?|30 khz| |
+|250.050|?|?|?|30 khz| |
 |250.090|312.600|62.510|Skynet 5A|40 khz| |
+|250.200|?|?|?|30 khz| |
 |250.900|308.300|57.400|COMSATBW-2| |No SDR visible|
 |251.000|296.500|45.500| | ||
 |251.275|296.500|45.225|USA 198|30 khz| |
@@ -98,11 +101,11 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |251.575|308.450|56.875|Intelsat 22 / Mistar?| | |
 |251.600|308.475|56.875|Intelsat 22| | |
 |251.700|?| |SDS 3-F4/SDS 3-F5|30 khz| |
-|251.850|292.850|41.000|UFO 10/11|30 khz| |
-|251.900|292.900|41.000|UFO 10/11|30 khz| |
-|251.950|292.950|41.000|UFO 2|30 khz| |
+|251.850|292.850|41.000|UFO 11|30 khz| |
+|251.900|292.900|41.000|UFO 11|30 khz| |
+|251.950|292.950|41.000|UFO 11|30 khz| |
 |252.000|293.100|41.100|UFO 11|30 khz| |
-|252.050|293.050|41.000|UFO 7|30 khz| |
+|252.050|293.050|41.000|UFO 8/10|30 khz| |
 |252.150|293.150|41.000|FLTSATCOM 8|30 khz|ASIA|
 |252.200|299.150|46.950|Sicral 2|30 khz| |
 |252.250|ASK|ASK|Sicral 1/2|30 khz| |
@@ -113,19 +116,20 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |252.500|309.800|57.300|Sicral 1B|30 khz|Buzzer tone|
 |252.550|ASK|ASK|Sicral 1B|30 khz|Visible on SDR only on TX|
 |252.625|309.925|57.300|Sicral 1B|30 khz| |
-|253.550|294.550|41.000|UFO 10/ UFO 11|30 khz| |
+|253.550|294.550|41.000|UFO 8/10|30 khz| |
 |253.600|295.950|42.350|USA 207|30 khz| |
-|253.650|294.650|41.000|UFO 2|30 khz| |
-|253.726|?| |UFO 11/Skynet 5A|30 khz|294.700?|
-|253.750|294.750|41.000|UFO 7|30 khz| |
-|253.825|ASK|ASK|Satcom 8|20 khz| Old 255.55 |
-|253.850|294.850|41.000|UFO 7|30 khz| |
+|253.625|?|?|?|30 khz| |
+|253.650|294.650|41.000|UFO 8/10|30 khz| |
+|253.725|?| |UFO 11/Skynet 5A|30 khz|294.700?|
+|253.750|294.750|41.000|UFO 8/10|30 khz| |
+|253.825|294.050|40.225|Satcom 8|20 khz| Old 255.55 |
+|253.850|294.850|41.000|UFO 8/10|30 khz| |
 |253.900|307.500|53.600|Skynet 5C/5D/4F|30 khz| |
 |253.950|312.800|58.850|Skynet 4A/NATO 4B/Skynet 5B|35 khz| |
 |253.975|294.975|41.000|Intelsat 22|6 khz| |
 |254.000|?| |?|35 khz|298.630?|
 |254.025|295.025|41.000|Intelsat 22|6 khz| |
-|254.150|ASK|ASK||30 khz| |
+|254.150|ASK|ASK|?|30 khz| |
 |254.500|?| |Intelsat 22|6 khz| |
 |254.530|?| |Intelsat 22|6 khz| |
 |254.625|295.625|41.000|Intelsat 22|6 khz| |
@@ -134,19 +138,20 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |254.730|312.550|57.820|Skynet 5C|40 khz| |
 |254.775|310.800|56.025|Comsat BW2|40 khz|DMR|
 |254.830|ASK|ASK|Skynet 5B/5D|40 khz||
-|255.250|302.475|47.225|UFO 10/UFO 11|30 khz||
-|255.350|296.350|41.000|UFO 2|30 khz| General Chat |
+|255.250|302.475|47.225|UFO 11|30 khz||
+|255.350|296.350|41.000|UFO 8/10|30 khz| General Chat |
 |255.400|296.400|41.000|UFO 11|30 khz| |
-|255.450|296.450|41.000|UFO7|30 khz|Pacific ocean|
+|255.450|296.450|41.000|UFO 8/10|30 khz|Pacific ocean|
+|255.650|?|?|?|6 khz| |
+|255.675|?|?|?|6 khz| |
 |255.775|309.300|53.525|Comsat BW1|40 khz||
-|256.450|ASK|ASK|Skynet 5A/5D|30 khz| No SDR Visible|
 |255.850|?| |Intelsat 22|6 khz| |
-|256.600|?| |Skynet 5C|30 khz|305.950? Dead? No SDR Visible|
-|256.850|297.850|41.000|UFO 10/UFO 11|30 khz| |
+|256.450|ASK|ASK|Skynet 5A/5D|30 khz| No SDR Visible|
+|256.850|297.850|41.000|UFO 11|30 khz| |
 |256.900|296.100|39.200|UFO 11|30 khz|SDR Blurry|
-|256.950|297.950|41.000|UFO 2|30 khz| |
-|257.000|297.675|40.675|UFO 11|30 khz| |
-|257.050|298.050|41.000|UFO F7 - LEA F5|30 khz| |
+|256.950|297.950|41.000|UFO 7|30 khz| |
+|257.050|298.050|41.000|UFO F7|30 khz| |
+|257.075|?|?|UFO ?|30 khz| |
 |257.100|295.650|38.550|UFO 11|35 khz| |
 |257.150|298.150|41.000|Satcom 8|30 khz|Beacon (Alarm)|
 |257.200|308.800|51.600|Sicral 2|30 khz| |
@@ -154,22 +159,22 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |257.300|309.725|52.425|Sicral 2|30 khz| |
 |257.350|307.200|49.850|Sicral 2|30 khz| |
 |257.450|305.950|48.500|Skynet 4B|40 khz| Spanish |
-|257.500|311.350|53.850|Skynet 4E|40 khz| |
+|257.500|311.350|53.850|Skynet 4E|40 khz| Brazil |
 |257.600|?| |Skynet 5A|40 khz|311.200?|
 |257.700|316.150|58.450|Skynet 4E/5A|40 khz| |
 |257.755|306.300|48.545|?|25 khz| |
 |257.775|311.375|53.600|Intelsat 22|30 khz| |
 |257.825|297.075|39.250|SDS 3/Usa 236|25 khz|Visible on SDR only on TX|
 |258.225|299.225|41.000|Sicral 1B|35 khz|DMR in 258.215|
-|258.350|299.350|41.000|Ufo 10/11|35 khz| |
-|258.450|299.450|41.000|Ufo 2|30 khz| |
+|258.350|299.350|41.000|Ufo 11|35 khz| |
+|258.450|299.450|41.000|Ufo 8/10|30 khz| Spanish |
 |258.500|299.500|41.000|UFO 11|30 khz|Being used|
-|258.550|299.550|41.000|UFO 7|30 khz|Pacific ocean|
-|258.650|299.650|41.000|Satcom 8|30 khz|DMR|
-|258.950| | | |20 khz| |
+|258.550|299.550|41.000|UFO 8/10|30 khz|Pacific ocean|
+|258.650|299.650|41.000|UFO 11|30 khz|DMR|
 |259.000|317.925|58.925|COMSATBW-2|40 khz| |
 |259.050|317.975|58.925|COMSATBW-2|35 khz|Buzzer tone|
 |259.225|295.225|36.000|?|30 khz| |
+|259.250|?| |?|30 khz||
 |259.330|295.330|36.000|?|30 khz| |
 |259.975|310.050|50.075|Sicral 1B|30 khz| |
 |260.025| | |Sicral 1B| |310.225? Buzzer tone|
@@ -177,52 +182,51 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |260.125|310.125|50.000|Sicral 1B|30 khz|SDR Only visible on TX. DMR|
 |260.175|310.325|50.150|Sicral 1B|30 khz| |
 |260.375|293.975|33.600|UFO 11|35 khz| |
-|260.425|294.025|33.600|UFO F7-F11|30 khz||
+|260.425|294.025|33.600|UFO 11|30 khz| |
 |260.475|294.075|33.600|UFO 11|30 khz| |
 |260.500|X| | |5 khz| |
-|260.525|294.125|33.600|UFO F7-F11|30 khz| |
+|260.525|294.125|33.600|UFO 8/10|30 khz| |
 |260.550|?| |Intelsat 22|30 khz|296.775?|
-|260.575|294.175|33.600|UFO F2|30 khz|SDR Only visible on TX|
-|260.625|294.225|33.600|UFO 10|30 khz| |
-|260.675|294.275|33.600|UFO F2/UFO F10/ UFO F11|30 khz| |
+|260.575|294.175|33.600|UFO 11|30 khz|SDR Only visible on TX|
+|260.625|294.225|33.600|UFO 11|30 khz| |
+|260.675|294.275|33.600|UFO 11|30 khz| |
 |260.725|?| |UFO 10|30 khz|294.325? Occupied. Noisy|
 |260.900|ASK|ASK|Skynet 5D|35 khz||
 |261.100|298.700|37.600|Skynet 5A|35 khz|DMR in 261.11|
 |261.200|294.950|33.750|Skynet 5B|35 khz|Italian, Romanian, Spanish|
 |261.450|295.050|33.600|Satcom 8| |Pacific ocean|
-|261.500|295.100|33.600|Satcom 8| |Pacific ocean|
-|261.620|295.220|33.600|UFO?|35 khz|SDR Only visible on TX. Brazil|
-|261.675|295.275|33.600|Satcom 8/UFO11| |Pacific ocean|
-|261.725|295.325|33.600|| |No SDR visible|
-|261.775|295.375|33.600|Satcom 8/UFO11| |Pacific ocean|
-|261.825|295.425|33.600|UFO7/8/11| |Pacific ocean|
-|261.875|295.475|33.600|Satcom 8/UFO11| |Pacific ocean|
-|261.925|295.525|33.600|Satcom 8/UFO11| |Pacific ocean|
+|261.600|?|?|?|30 khz| |
+|261.620|295.220|33.600|UFO 8/10|35 khz|SDR Only visible on TX. Brazil|
+|261.650|?|?|?|30 khz| |
+|261.725|295.325|33.600|UFO 8/10| |No SDR visible|
+|261.825|295.425|33.600|UFO7/8/11| |Bad SDR visibility|
+|261.850|?|?|?|30 khz| |
+|261.925|295.525|33.600|UFO 8/10| |US army 261.930|
 |262.000|314.200|52.200|UFO 10-11?|35 khz| |
 |262.040|?| |UFO 10-11|35 khz|Buzzing sound|
-|262.075|295.675|33.600|UFO2|30 khz|Brasil|
+|262.075|295.675|33.600|UFO 8/10|30 khz|Brazil|
 |262.100|294.350|32.250|LEA F5/MUOS|30 khz| |
-|262.125|295.725|33.600|UFO 10 - LEA F5|30 khz| |
+|262.125|295.725|33.600|UFO 11|30 khz| |
 |262.150|?| |LEA F5/MUOS|30 khz| |
 |262.175|297.025|34.850|Ufo F2-LeaF5|30 khz| |
-|262.225|295.825|33.600|UFO 10/ LEA 5| |Buzzing sound|
+|262.225|295.825|33.600|UFO 11| |Buzzing sound|
 |262.250|?| |MUOS 2/3|25 khz| |
-|262.275|300.275|38.000|UFO 2/10/11-LeaF5|30 khz| |
+|262.275|300.275|38.000|UFO 11|30 khz| |
 |262.300|?| |LEA F5/MUOS|25 khz| |
-|262.325|295.925|33.600|UFO 10/11-LeaF5|30 khz| |
+|262.325|295.925|33.600|UFO 111|30 khz| |
 |262.350|?| |LEA F5/MUOS|25 khz| |
-|262.375|295.975|33.600|Ufo F2-LeaF5|25 khz| |
-|262.400|296.000|33.600|UFO 10/11/Lea F5|30 khz|Pacific ocean|
-|262.425|296.025|33.600|UFO 10/11/Lea F5|30 khz|Pacific ocean|
+|262.375|295.975|33.600|UFO 7-LeaF5|25 khz| |
+|262.400|296.000|33.600|UFO 11|30 khz| |
+|262.425|296.025|33.600|UFO 11|30 khz| |
 |263.400|316.400|53.000|Sicral 2|35 khz| |
 |263.450|311.400|47.950|Sicral 2|35 khz| |
 |263.500|ASK|ASK|Sicral 2|35 khz| |
 |263.575|297.175| |UFO 11|30 khz| |
 |263.600|X| |USA 207|6 khz| |
-|263.625|297.225|33.600|UFO 7/10/11|30 khz| |
-|263.650|ASK|ASK|UFO 7|30 khz| SDR Only visible on TX. Brasil |
+|263.625|297.225|33.600|UFO 11|30 khz| |
+|263.650|ASK|ASK|UFO 8/10|30 khz| SDR Only visible on TX. Brasil OLD 296.475|
 |263.675|297.275|33.600|UFO 11|25 khz| |
-|263.700|X| |USA 207|6 khz| |
+|263.700|ASK|ASK|UFO 11|6 khz| |
 |263.725|298.525|34.800|UFO 7/10/11|30 khz| |
 |263.775|297.375|33.600|UFO 2|30 khz| |
 |263.825|297.425|33.600|UFO 10/11|30 khz| |
