@@ -1,8 +1,6 @@
 # Satcom radio
 
 Welcome to the "Satcom radio" satellite website for hams  
-Please join our [telegram group](https://t.me/satcom_radio) for more discussions.
-
 Website contact [email](satcomradioham@gmail.com)
 
 ------
