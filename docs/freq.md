@@ -134,7 +134,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |253.975|294.975|41.000|Intelsat 22|6 khz| |
 |254.000|?| |?|35 khz|298.630?|
 |254.025|295.025|41.000|Intelsat 22|6 khz| |
-|254.150|307.550|53.400| |30 khz|Shurup|
+|254.150|307.550|53.400| |30 khz| |
 |254.450|?| | | | |
 |254.500|?| |Intelsat 22|6 khz| |
 |254.530|?| |Intelsat 22|6 khz| |
@@ -173,11 +173,11 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |257.600|?| |Skynet 5A|40 khz|311.200?|
 |257.700|316.150|58.450|Skynet 4E/5A|40 khz| |
 |257.750|308.400|50.650|Sicral 2|30 khz| |
-|257.755|306.300|48.545|?|25 khz|Italians Camuflados|
+|257.755|306.300|48.545|?|25 khz| |
 |257.775|311.375|53.600|Intelsat 22|30 khz| |
 |257.825|297.075|39.250|SDS 3/Usa 236|25 khz|Visible on SDR only on TX|
 |258.225|299.225|41.000|Sicral 1B|35 khz|DMR in 258.215|
-|258.350|299.350|41.000|UFO 11|35 khz|Possible candidate?|
+|258.350|299.350|41.000|UFO 11|35 khz| |
 |258.450|299.450|41.000|UFO 8/UFO 10|30 khz|Spanish|
 |258.500|299.500|41.000|UFO 11|30 khz|Being used|
 |258.550|299.550|41.000|UFO 10|30 khz| |
@@ -255,9 +255,9 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |265.550|306.550|41.000|UFO 11|30 khz| |
 |265.675|306.675|41.000|Intelsat 22|30 khz| |
 |265.850|306.850|41.000|Intelsat 22|30 khz| |
-|266.350|296.350|30.000|?|30 khz|Mario. Dead|
+|266.350|296.350|30.000|?|30 khz| Dead|
 |266.750|316.575|49.825|UFO11|30 khz| |
-|266.775|309.300|42.525|?|30 khz|Mario. Dead|
+|266.775|309.300|42.525|?|30 khz| Dead|
 |266.850|307.850|41.000|UFO 10|30 khz|Bad SDR visibility|
 |266.900|297.625|30.725|UFO11|30 khz| |
 |266.950|307.950|41.000|UFO 10|30 khz|No SDR visible. Buzzer|
@@ -267,7 +267,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |267.200|308.200|41.000|SICRAL1|30 khz| |
 |267.250|308.250|41.000|SICRAL1|30 khz| |
 |267.400|294.900|27.500|?|30 khz| |
-|267.450|313.850|46.400|?|30 khz|Mario Visible on SDR only on TX. Dead|
+|267.450|313.850|46.400|?|30 khz| Visible on SDR only on TX. Dead|
 |267.575|X| |UFO 11|30 khz| |
 |267.875|310.375|42.500|SICRAL1B|30 khz|Bad SDR visibility|
 |267.950|310.450|42.500|SICRAL1B|30 khz|Bad SDR visibility|
