@@ -98,6 +98,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 |250.050|X| | |6 khz| |
 |250.090|312.600|62.510|Skynet 5A|40 khz| |
 |250.200|X|#VALUE!| | | |
+|250.700|295.050|44.350|UFO 11| | |
 |250.900|308.300|57.400|COMSATBW-2| |No SDR visible|
 |251.000|296.500|45.500| | | |
 |251.275|296.500|45.225|USA 198|30 khz| |
@@ -292,4 +293,4 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 
 --------
 
-Last Update: 20/10/2024
+Last Update: 22/10/2024
