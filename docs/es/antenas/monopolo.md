@@ -5,6 +5,7 @@ Es probablemente la peor antena en terminos de recepcion pero aun asi puede lleg
 <img height="450" src="/../_img/antennas/monopole.png" />
 
 Simplemente corta un cable RG213 de 30 cm y suelda el cable central al conector.  
+**Asegurate que la malla no toca el conector**  
 En la parte de arriba corta la malla 1,5cm y deja el cable interior al aire.  
 
 Finalmente con el NanoVNA debes ir cortando el cable hasta que quede en la frecuencia que te interesa y siempre dejando 1,5cm de cable expuesto en la punta.
