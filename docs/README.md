@@ -1,7 +1,9 @@
 # Satcom radio
 
 Welcome to the "Satcom radio" satellite website for hams  
-Website contact [email](satcomradioham@gmail.com)
+Website contact [email](satcomradioham@gmail.com)  
+
+We have a telegram only in spanish in the translated page.
 
 ------
 
@@ -13,9 +15,9 @@ It is forbidden to transmit on satcom bands without permission!!
 ## Radios
 
 In the radio section you will find radios that work with satcom without complex modifications.  
-It's **not** a full list of radios. There are other radios that work straight out of the box like the Wouxun KG-UVR5 
+It's **not** a full list of radios. There are other radios that work straight out of the box like the QYT 7900D
 and many mods for other radios such as Satcom M7, TYT 9000D and others but the modifications are more complex 
-or they are expensive so it's easier to stick to the radios listed in this website.
+ so it's easier to stick to the radios listed in this website.
 
 ## Transverter
 

@@ -3,7 +3,8 @@
 * **Equipos**
     * [Zastone/Vitai UV008](/es/radios/zastone-uv008.md)
     * [Quansheng UV-K5](/es/radios/quansheng-uvk5.md)
-    * [QYT 7900D/Zastone MP380+](/es/radios/zastone-mp380.md)
+    * [Tidradio H3](/es/radios/tidradio-h3.md)
+    * [Tidradio H3](/es/radios/wouxun-kg-uvr5.md)
 * [Amplificadores](/es/amplificadores/index.md)
 * [Transverters](/es/transverters/index.md)
 * **Antenas**
