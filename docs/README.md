@@ -15,9 +15,9 @@ It is forbidden to transmit on satcom bands without permission!!
 ## Radios
 
 In the radio section you will find radios that work with satcom without complex modifications.  
-It's **not** a full list of radios. There are other radios that work straight out of the box like the QYT 7900D
-and many mods for other radios such as Satcom M7, TYT 9000D and others but the modifications are more complex 
- so it's easier to stick to the radios listed in this website.
+It's **not** a full list of radios. There are other radios that work straight out of the box like the QYT 7900D, Baofeng 1802U, Baofeng 1801, Linton...
+There are also many mods for other radios such as Zastone M7, TYT 9000D and others but the modifications are more complex   
+so it's easier to stick to the radios listed in this website.
 
 ## Transverter
 
