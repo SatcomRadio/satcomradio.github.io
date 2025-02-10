@@ -1,6 +1,6 @@
 # Tidradio H3
 
-<img height="450" src="/../_img/radios/h3.jpg" />
+<img height="450" src="/../_img/radios/h3.png" />
 
 This transciever allows to work with satcom **without hardware modifications, only firmware**.  
 Depending on the firmware you can get around 6-8W.  
