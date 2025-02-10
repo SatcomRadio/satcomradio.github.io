@@ -16,16 +16,10 @@ To transmit in DMR you need to have the TX on the VFO A and the RX on VFO B (or 
 
 <img height="350" src="/../_img/radios/uv008_dmr.png" />
 
-Also the CPS is not very user friendly and it cannot import channels or zones.
-As a solution, [here](https://satcomradio.github.io/_files/zastone_cps.cps) you have an example of a CPS with most of the Satcom channels.
-
-You can also get the latest firmware [here](https://satcomradio.github.io/_files/zastone_uv008_fw.rar)
-
-Recently (January 2024) there have been attempts to dissasemble the firmware and implement custom firwares.
-To do so, you can dissasembly the firmware .bin with the *cutter dissasembler* specifying *mcore* as the architecture and *c-sky* as the CPU
-  
 Check [VRTP forum](https://vrtp.ru/index.php?showtopic=33914&st=60) for latest news  
 
 ### Sources:
 
+[Telegram](https://t.me/Zaston_M7_Pirates)  
+[Telegram](https://t.me/zastone8)  
 [Zastone info website](https://telegra.ph/Instrukciya-programmirovaniya-Zastone-UV008-v3-s-AES256-04-03)  
