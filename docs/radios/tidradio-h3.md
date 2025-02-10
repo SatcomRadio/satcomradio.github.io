@@ -26,4 +26,4 @@ You can use the standard CPS of TidRadio to load channels
 8: On the main radio screen, hold button 7 and enter the "secret menu" 
 9. Put the VHF/UHF Filter to "280 Mhz"
 
-[Russian telegram channel](https://t.me/TD_H3)  
+[Russian Telegram channel](https://t.me/TD_H3)  

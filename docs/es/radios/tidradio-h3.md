@@ -26,4 +26,4 @@ Puedes usar el CPS estandar de TidRadio para cargar los canales
 8: En la pantalla principal de la radio, manten pulsado el boton 7 y entra en el "menu secreto" 
 9. Pon el filtro VHF/UHF en "280 Mhz"
 
-[canal ruso de telegram](https://t.me/TD_H3)  
+[Canal ruso de Telegram](https://t.me/TD_H3)  
