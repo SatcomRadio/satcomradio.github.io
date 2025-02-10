@@ -5,6 +5,7 @@
     * [Quansheng UV-K5](/radios/quansheng-uvk5.md)
     * [Tidradio H3](/radios/tidradio-h3.md)
     * [Wouxun KG-UVR5](/radios/wouxun-kg-uvr5.md)
+    * [Wouxun KG-UV7H](/radios/wouxun-kg-uv7h.md)
 * [Linear Amplifiers](/amplifiers/index.md)
 * [Transverters](/transverters/index.md)
 * **Antennas**
