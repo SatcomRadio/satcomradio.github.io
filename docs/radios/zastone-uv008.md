@@ -5,7 +5,7 @@ The Zastone (also sold as Vitai) uv008 is a handheld radio capable of comunicati
 <img height="450" src="/../_img/radios/zastone_uv008.png" />
 
 There are 3 versions of this radio. The only version that works with satcom without messing with software is v3 and as 
-long as you don't buy a used model you should recieve the v3 version
+long as you don't buy a used model you should recieve the v3 version if it was build after 2023.  
 
 <img height="450" src="/../_img/radios/uv008_models.jpg" />
 

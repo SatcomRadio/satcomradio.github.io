@@ -4,8 +4,8 @@ El Zastone (también se vende como Vitai) uv008 es un transmisor portatil capaz 
 
 <img height="450" src="/../_img/radios/zastone_uv008.png" />
 
-Existen 3 versiones de esta radio. La única versión que funciona con satcom sin meterse con el software es v3 y como 
-siempre y siempre que no compres un modelo usado, deberias recibir la versión v3
+Existen 3 versiones de esta radio. La única versión que funciona con satcom sin modificar el software es la v3.
+A partir del 2023, todos los modelos fabricados por Zastone son el modelo v3
 
 <img height="450" src="/../_img/radios/uv008_models.jpg" />
 
