@@ -23,7 +23,7 @@ Puedes usar el CPS estándar de TidRadio para cargar los canales
 
 7: Una vez cargado activa el menú TX en: 52,53,54
 
-8: En la pantalla principal de la radio, mantén pulsado el botón 7 y entra en el «menú secreto» 
+8: En la pantalla principal de la radio, mantén pulsado el botón 7 y entra en el "menú secreto" 
 9. Pon el filtro VHF/UHF en "280 Mhz"
 
 [canal ruso de telegram](https://t.me/TD_H3)  
