@@ -7,9 +7,14 @@ Bear in mind that depending on where the SDR is located they will hear only the 
 
 [Rikmotik (Crimea) SDR](https://rikmotik.ru/#freq=253650000,mod=nfm,sql=-22)  
 [Saltonet (Brazil) SDR](http://sdr.saltonet.inf.br:8073/#freq=29250000,mod=am,sql=-150)  
+[Wessex (UK)](http://wessex.hopto.org:8060/)  
+[California (US)](http://ivopenwebrx.ddns.net:8073)  
 [Gudynas (Lithuania) SDR](https://sdr.gudynas.lt/#freq=146400000,mod=nfm,sql=-150)  
 [Webradio (Russia) SDR 1](http://webradio.sytes.net:8080)  
 [Webradio (Russia) SDR 2](http://webradio.sytes.net:8081)  
 [Satcomdv (Russia **Pacific**) SDR](http://satcomdv.chickenkiller.com/#freq=257149996,mod=nfm,sql=-150)  
 
-If you want to find other SDRs you can try on the [map of SDR receivers website](https://rx-tx.info/map-sdr-points)
+If you want to find other SDRs you can try:  
+[map of SDR receivers website (filter by frequency 250Mhz)](https://rx-tx.info/map-sdr-points)  
+[Kiwi SDR](http://kiwisdr.com/public/)  
+[WebSdr](http://websdr.org/)  
