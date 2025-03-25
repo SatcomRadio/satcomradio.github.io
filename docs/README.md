@@ -3,7 +3,7 @@
 Welcome to the "Satcom radio" satellite website for hams  
 Website contact [email](satcomradioham@gmail.com)  
 
-We have a telegram only in spanish in the translated page.
+We also have a [telegram](https://t.me/satcom_radio).
 
 ------
 
