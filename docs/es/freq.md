@@ -293,7 +293,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 | 269.750 | 310.750 | 41.000 | UFO 10       | 30 khz |                                 |
 | 269.850 | 310.850 | 41.000 | UFO 10       | 30 khz | Brazil                          |
 | 269.925 | 295.550 | 25.625 | UFO 11       | 30 khz |                                 |
-| 269.950 | 310.950 | 41.000 | UFO 11       | 30 khz | Visible in Brazil also          |
+| 269.950 | 310.950 | 41.000 | UFO 11       | 30 khz |                                 |
 
 
 --------
