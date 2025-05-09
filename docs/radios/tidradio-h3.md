@@ -16,14 +16,13 @@ The steps are the following:
 3. Select the firmware .bin that you want to load
 4. Select the port
 5. Press the START button
-6. Turn on the radio while pressing the PTT button
+6. Turn on the radio while pressing the PTT button  
 
 It should now appear a progress bar at the bottom and the firmware should be loaded.  
-You can use the standard CPS of TidRadio to load channels
+You can use the standard CPS of TidRadio to load channels  
 
-7: Once uploaded activate the TX in menu: 52,53,54
-
-8: On the main radio screen, hold button 7 and enter the "secret menu" 
-9. Put the VHF/UHF Filter to "280 Mhz"
+7. Once uploaded activate the TX in menu: 52,53,54  
+8. On the main radio screen, hold button 7 and enter the "secret menu"  
+9. Put the VHF/UHF Filter to "280 Mhz"  
 
 [Russian Telegram channel](https://t.me/TD_H3)  

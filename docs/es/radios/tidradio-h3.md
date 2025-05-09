@@ -21,9 +21,8 @@ Los pasos son los siguientes:
 Ahora deberia aparecer una barra de progreso en la parte inferior y el firmware deberia estar cargado.  
 Puedes usar el CPS estandar de TidRadio para cargar los canales  
 
-7: Una vez cargado activa el menu TX en: 52,53,54
-
-8: En la pantalla principal de la radio, manten pulsado el boton 7 y entra en el "menu secreto" 
-9. Pon el filtro VHF/UHF en "280 Mhz"
+7. Una vez cargado activa el menu TX en: 52,53,54  
+8. En la pantalla principal de la radio, manten pulsado el boton 7 y entra en el "menu secreto"  
+9. Pon el filtro VHF/UHF en "280 Mhz"  
 
 [Canal ruso de Telegram](https://t.me/TD_H3)  

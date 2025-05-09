@@ -1,4 +1,4 @@
-# Wouxun KG-UVR5
+# Wouxun KG-UV7H
 
 <img height="450" src="/../_img/radios/uv7h.png" />
 
