@@ -167,6 +167,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 255.775 | 309.300 | 53.525 | Comsat BW1   | 30 khz |                                 |
 | 255.850 | 296.850 | 41.000 | Intelsat 22  | 6 khz  |                                 |
 | 256.450 | 313.850 | 57.400 | Skynet 5D    | 30 khz |                                 |
+| 256.650 | 311.700 | 55.050 | ?            | 30 khz |                                 |
 | 256.850 | 297.850 | 41.000 | UFO 11       | 30 khz |                                 |
 | 256.875 | 293.950 | 37.075 | Skynet 5C    | 30 khz | Beacon                          |
 | 256.950 | 297.950 | 41.000 | UFO 2        | 30 khz |                                 |
@@ -299,4 +300,4 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 
 --------
 
-Last Update: 16/05/2025
+Last Update: 01/06/2025
