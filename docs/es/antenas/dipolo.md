@@ -40,8 +40,10 @@ muy corta pero consige transformarla en una antena mas direccional
 
 Por lo general el director tiene una longitud de 0.325 y se une al conector banana usando cinta de doble cara o piezas impresas en 3d.
 
-<img height="300" src="/../_img/antennas/dipole_dir_ex.png" />
-<img height="300" src="/../_img/antennas/dipole_dir_ex2.jpg" />
+<img height="300" src="/../_img/antennas/dipole_instr.png" />
+
+<img height="300" src="/../_img/antennas/dipole_dir_ex.jpg" />
+
 
 ### Fuentes:
 

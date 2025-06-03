@@ -39,8 +39,9 @@ Some people add a director to this antenna. It will not work perfectly since it'
 
 Usually the director has a length of 0.325m and is attached to the Banana using double side tape or 3d printed parts.
 
-<img height="300" src="/../_img/antennas/dipole_dir_ex.png" />
-<img height="300" src="/../_img/antennas/dipole_dir_ex2.jpg" />
+<img height="300" src="/../_img/antennas/dipole_instr.png" />
+
+<img height="300" src="/../_img/antennas/dipole_dir_ex.jpg" />
 
 ### Sources:
 
