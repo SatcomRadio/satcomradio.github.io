@@ -177,7 +177,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 | 257.150 | 298.150 | 41.000 | FLT 8        | 30 khz | Beacon (Alarm)                  |
 | 257.175 | 298.125 | 40.950 | UFO 11       | 30 khz |                                 |
 | 257.200 | 308.800 | 51.600 | UFO/Sicral 2 | 30 khz |                                 |
-| 257.250 | 316.900 | 59.650 | UFO/Sicral 2 | 30 khz | Spanish                         |
+| 257.250 | 316.900 | 59.650 | UFO/Sicral 2 | 30 khz |                                 |
 | 257.300 | 309.725 | 52.425 | UFO/Sicral 2 | 30 khz |                                 |
 | 257.350 | 307.200 | 49.850 | UFO/Sicral 2 | 30 khz |                                 |
 | 257.450 | 305.950 | 48.500 | Skynet 5C    | 30 khz | Spanish/Romanian                |
@@ -189,7 +189,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 | 257.825 | 297.075 | 39.250 | Skynet 5C    | 30 khz |                                 |
 | 258.225 | 299.3   | 41.075 | UFO 2        | 30 khz | DMR in 258.215                  |
 | 258.350 | 299.350 | 41.000 | UFO 11       | 30 khz |                                 |
-| 258.450 | 299.450 | 41.000 | UFO 2        | 30 khz | Spanish                         |
+| 258.450 | 299.450 | 41.000 | UFO 2        | 30 khz |                                 |
 | 258.500 | 299.500 | 41.000 | UFO 11       | 30 khz |                                 |
 | 258.550 | 299.550 | 41.000 | UFO 10       | 30 khz | Brazil                          |
 | 258.600 | 294.825 | 36.225 | ?            | 30 khz | Buzzer tone                     |
