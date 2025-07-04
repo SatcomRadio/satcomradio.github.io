@@ -13,6 +13,6 @@ Do the final adjustments with NanoVNA and cut the cable until it reaches the fre
 
 Another alternative is to buy the antenna NA-320A, cut it in the red circle and adjust with the NanoVNA
 
-<img height="300" src="/../_img/antennas/monopole_ali.jpg" />
+<img height="300" src="/../_img/antennas/monopole_ali.png" />
 
 [Related video](https://www.youtube.com/watch?v=XA78nIEK8Kg)
