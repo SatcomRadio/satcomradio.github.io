@@ -15,7 +15,7 @@ Finalmente con el NanoVNA debes ir cortando el cable hasta que quede en la frecu
 
 Otra alternativa es comprar la antena NA-320A, cortarla en la zona marcada en rojo y ajustar con NanoVNA
 
-<img height="300" src="/../_img/antennas/monopole_ali.jpg" />
+<img height="300" src="/../_img/antennas/monopole_ali.png" />
 
 
 [Video relacionado](https://www.youtube.com/watch?v=XA78nIEK8Kg)
