@@ -121,7 +121,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 250.950 | 299.500 | 48.550 | Skynet 5B    | 30 khz |                                 |
 | 251.575 | 308.450 | 56.875 | ?            | 30 khz |                                 |
 | 251.600 | 298.225 | 46.625 | Intelsat 22  | 30 khz |                                 |
-| 251.800 | 300.350 | 48.550 | ?            | 30 khz |                                 |
+| 251.800 | 300.350 | 48.550 | Skynet 5B    | 30 khz |                                 |
 | 251.850 | 292.850 | 41.000 | UFO 11       | 30 khz |                                 |
 | 251.950 | 292.950 | 41.000 | UFO 10       | 30 khz | Brazil                          |
 | 252.050 | 293.050 | 41.000 | UFO 10       | 30 khz | Brazil                          |
