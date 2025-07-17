@@ -273,6 +273,7 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 | 266.850 | 307.850 | 41.000 | UFO 10       | 30 khz |                                 |
 | 266.950 | 307.950 | 41.000 | UFO 10       | 30 khz |                                 |
 | 266.975 | 297.500 | 30.525 | UFO 11       | 30 khz |                                 |
+| 267.025 | 297.350 | 30.325 | UFO 11       | 30 khz |                                 |
 | 267.050 | 308.050 | 41.000 | Intelsat 22  | 30 khz |                                 |
 | 267.100 | 308.100 | 41.000 | Sicral 2     | 30 khz |                                 |
 | 267.150 | 308.150 | 41.000 | Sicral 2     | 30 khz |                                 |
@@ -301,4 +302,4 @@ Todas las frecuencias han sido probadas con [Rikmotik SDR](https://rikmotik.ru/#
 
 --------
 
-Last Update: 09/07/2025
+Last Update: 17/07/2025
