@@ -1,5 +1,26 @@
 # Frequencies
 
+## Meridian satellites
+
+### [East satellites](https://www.n2yo.com/?s=37212|52145|37398|44453)
+
+| Rx      | Tx      |
+| ------- | ------- |
+| 483.750 | 442.875 |
+| 283.500? | 442.875? |
+| 278.850? | 442.875? |
+
+### [West satellites](https://www.n2yo.com/?s=38995|45254|40296)
+
+
+| Rx      | Tx      |
+| ------- | ------- |
+| 484.250 | 442.875 |
+| 283.500? | 442.875? |
+| 278.850? | 442.875? |
+
+## [Satcom satellites](https://www.n2yo.com/?s=23967|23132|23467|40374|25258|40887|20253|33055|34810|36582|22787|32294|40614|39034|35943|38098|25967|28117|30794|38093|39206|41622|26948)
+
 Here you have a table with most of the frequencies with their offset.  
 Bear in mind that different satellites have different frequencies so some of them may not be visible from your location.
 In some frequencies the uplink frequency has not been found. You can send me an [email](satcomradioham@gmail.com) if you want to add it.  
@@ -32,7 +53,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 244.185 | 317.285 | 73.100 | UFO 11       | 6 khz  |                                 |
 | 244.195 | 317.295 | 73.100 | UFO 11       | 6 khz  |                                 |
 | 244.205 | 317.305 | 73.100 | UFO 11       | 6 khz  |                                 |
-| 244.225 | 317.325 | 73.100 | UFO 11       | 30 khz |                                 |
+| 244.225 | 316.775 | 72.550 | UFO 11       | 30 khz |                                 |
 | 244.275 | 301.025 | 56.750 | Comsat BW1   | 30 khz |                                 |
 | 244.975 | 293.000 | 48.025 | Skynet 4C    | 30 khz |                                 |
 | 245.200 | 314.450 | 69.250 | UFO 10       | 30 khz |                                 |
@@ -86,9 +107,9 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 249.205 | 302.805 | 53.600 | UFO 10       | 6 khz  |                                 |
 | 249.215 | 302.815 | 53.600 | UFO 10       | 6 khz  |                                 |
 | 249.225 | 302.825 | 53.600 | UFO 10       | 6 khz  |                                 |
-| 249.250 | 302.850 | 53.600 | UFO 10       | 6 khz  |                                 |
 | 249.235 | 302.835 | 53.600 | UFO 11       | 6 khz  |                                 |
 | 249.245 | 302.845 | 53.600 | UFO 11       | 6 khz  |                                 |
+| 249.250 | 302.850 | 53.600 | UFO 10       | 6 khz  |                                 |
 | 249.255 | 302.855 | 53.600 | UFO 11       | 6 khz  |                                 |
 | 249.265 | 302.865 | 53.600 | UFO 11       | 6 khz  |                                 |
 | 249.275 | 302.875 | 53.600 | UFO 11       | 6 khz  |                                 |
@@ -125,8 +146,8 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 251.850 | 292.850 | 41.000 | UFO 11       | 30 khz |                                 |
 | 251.950 | 292.950 | 41.000 | UFO 10       | 30 khz | Brazil                          |
 | 252.050 | 293.050 | 41.000 | UFO 10       | 30 khz | Brazil                          |
-| 252.150 | 293.150 | 41.000 | Intelsat 22  | 30 khz |                                 |
-| 252.200 | 315.250 | 63.050 | Sicral 2     | 30 khz |                                 |
+| 252.150 | 293.150 | 41.000 | FLT8         | 30 khz |                                 |
+| 252.200 | 310.175 | 57.975 | Sicral 2     | 30 khz |                                 |
 | 252.250 | 316.350 | 64.100 | Sicral 2     | 30 khz |                                 |
 | 252.300 | 293.300 | 41.000 | Intelsat 22  | 30 khz |                                 |
 | 252.350 | 310.225 | 57.875 | Sicral 1B    | 30 khz |                                 |
@@ -139,7 +160,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 253.300 | 307.800 | 54.500 | Skynet 5B    | 30 khz |                                 |
 | 253.550 | 294.550 | 41.000 | UFO11        | 30 khz |                                 |
 | 253.600 | 316.250 | 62.650 | Sicral 2?    | 30 khz | Not sicral 2. UFO10? Skynet 5C? |
-| 253.625 | 296.000 | 42.375 | UFO 11       | 30 khz |                                 |
+| 253.625 | 295.450 | 41.825 | UFO 11       | 30 khz |                                 |
 | 253.650 | 294.650 | 41.000 | UFO 2?       | 30 khz |                                 |
 | 253.675 | 294.425 | 40.750 |              | 30 khz |                                 |
 | 253.725 | 294.450 | 40.725 | Intelsat 22  | 30 khz |                                 |
@@ -178,7 +199,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 257.150 | 298.150 | 41.000 | FLT 8        | 30 khz | Beacon (Alarm)                  |
 | 257.175 | 298.125 | 40.950 | UFO 11       | 30 khz |                                 |
 | 257.200 | 308.800 | 51.600 | UFO/Sicral 2 | 30 khz |                                 |
-| 257.250 | 316.900 | 59.650 | UFO/Sicral 2 | 30 khz |                                 |
+| 257.250 | 316.900 | 59.650 | UFO/Sicral 2 | 30 khz | Spanish                         |
 | 257.300 | 309.725 | 52.425 | UFO/Sicral 2 | 30 khz |                                 |
 | 257.350 | 307.200 | 49.850 | UFO/Sicral 2 | 30 khz |                                 |
 | 257.450 | 305.950 | 48.500 | Skynet 5C    | 30 khz | Spanish/Romanian                |
@@ -190,7 +211,7 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 257.825 | 297.075 | 39.250 | Skynet 5C    | 30 khz |                                 |
 | 258.225 | 299.3   | 41.075 | UFO 2        | 30 khz | DMR in 258.215                  |
 | 258.350 | 299.350 | 41.000 | UFO 11       | 30 khz |                                 |
-| 258.450 | 299.450 | 41.000 | UFO 2        | 30 khz |                                 |
+| 258.450 | 299.450 | 41.000 | UFO 2        | 30 khz | Spanish                         |
 | 258.500 | 299.500 | 41.000 | UFO 11       | 30 khz |                                 |
 | 258.550 | 299.550 | 41.000 | UFO 10       | 30 khz | Brazil                          |
 | 258.600 | 294.825 | 36.225 | ?            | 30 khz | Buzzer tone                     |
@@ -200,10 +221,10 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 259.000 | 317.925 | 58.925 | Comsat BW2   | 30 khz |                                 |
 | 259.050 | 307.45  | 48.400 | Comsat BW1   | 30 khz | Buzzer tone                     |
 | 259.975 | 309.7   | 49.725 | Sicral 1B    | 30 khz |                                 |
-| 260.025 | 293.250 | 33.225 | Sicral 1B    | 30 khz | Buzzer tone                     |
+| 260.025 | 310.575 | 50.550 | Sicral 1B    | 30 khz | Buzzer tone                     |
 | 260.075 | 310.275 | 50.200 | Sicral 1B    | 30 khz |                                 |
 | 260.125 | 310.125 | 50.000 | Sicral 1B    | 30 khz | DMR                             |
-| 260.175 | 309.875 | 49.700 | Sicral 1B    | 30 khz |                                 |
+| 260.175 | 310.425 | 50.250 | Sicral 1B    | 30 khz |                                 |
 | 260.250 | 314.400 | 54.150 | Skynet 5B    | 30 khz |                                 |
 | 260.375 | 293.975 | 33.600 | UFO 11       | 30 khz |                                 |
 | 260.425 | 294.025 | 33.600 | UFO 10       | 30 khz | Brazil                          |
@@ -216,10 +237,10 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 260.625 | 294.225 | 33.600 | UFO 11       | 30 khz |                                 |
 | 260.650 | 297.100 | 36.450 | ?            | 30 khz |                                 |
 | 260.675 | 294.275 | 33.600 | UFO 10       | 30 khz | Brazil                          |
-| 260.725 | 294.325 | 33.600 | UFO 11       | 30 khz | UFO 4                           |
+| 260.725 | 295.350 | 34.625 | UFO 11       | 30 khz | UFO 4                           |
 | 260.900 | 313.050 | 52.150 | Skynet 5D    | 30 khz |                                 |
 | 260.950 | 299.400 | 38.450 | UFO 7        | 30 khz | Brazil                          |
-| 261.100 | 298.700 | 37.600 | Skynet 5A    | 30 khz | DMR                             |
+| 261.100 | 298.380 | 37.280 | Skynet 5A    | 30 khz | DMR                             |
 | 261.200 | 294.950 | 33.750 | Skynet 5B    | 30 khz | Italian                         |
 | 261.400 | 316.550 | 55.150 | Skynet 4C    | 30 khz |                                 |
 | 261.575 | 295.175 | 33.600 | UFO 11       | 30 khz |                                 |
@@ -229,12 +250,12 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 261.675 | 295.275 | 33.600 | UFO 11       | 30 khz |                                 |
 | 261.700 | 296.525 | 34.825 | UFO 11       | 30 khz |                                 |
 | 261.725 | 295.325 | 33.600 | UFO 10       | 30 khz | Brazil                          |
-| 261.775 | 295.375 | 33.600 | UFO 11       | 30 khz |                                 |
+| 261.775 | 307.750 | 45.975 | UFO 11       | 30 khz |                                 |
 | 261.800 | ?       | ?      | ?            | 30 khz |                                 |
 | 261.825 | 295.425 | 33.600 | UFO 10       | 30 khz | Alarm                           |
 | 261.850 | 300.275 | 38.425 | Intelsat 22  | 30 khz |                                 |
 | 261.875 | 295.475 | 33.600 | UFO 11       | 30 khz |                                 |
-| 261.900 | 316.825 | 54.925 | ?            | 30 khz |                                 |
+| 261.900 | 307.750 | 45.850 | ?            | 30 khz |                                 |
 | 261.925 | 295.525 | 33.600 | UFO 10       | 30 khz | Brazil. Old 296.925             |
 | 261.950 | 294.625 | 32.675 | UFO 11       | 30 khz |                                 |
 | 261.975 | 294.000 | 32.025 | UFO 11       | 30 khz |                                 |
@@ -281,10 +302,10 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 267.250 | 308.250 | 41.000 | Sicral 2     | 30 khz |                                 |
 | 267.400 | 294.900 | 27.500 | UFO 11       | 30 khz |                                 |
 | 267.575 | 297.625 | 30.050 | UFO 11       | 30 khz |                                 |
-| 267.875 | 310.375 | 42.500 | Sicral 1B    | 30 khz |                                 |
+| 267.875 | 310.525 | 42.650 | Sicral 1B    | 30 khz |                                 |
 | 267.950 | 310.075 | 42.125 | Sicral 1B    | 30 khz |                                 |
 | 268.000 | 310.5   | 42.500 | Sicral 1B    | 30 khz | Czech                           |
-| 268.050 | 309.95  | 41.900 | Sicral 1B    | 30 khz | Czech                           |
+| 268.050 | 310.325 | 42.275 | Sicral 1B    | 30 khz | Czech                           |
 | 268.100 | 293.325 | 25.225 | Sicral 1B    | 30 khz |                                 |
 | 268.150 | 309.150 | 41.000 | UFO 11       | 30 khz |                                 |
 | 268.200 | 296.050 | 27.850 | UFO 11       | 30 khz |                                 |
@@ -292,14 +313,14 @@ All the frequencies have been tested with [Rikmotik SDR](https://rikmotik.ru/#fr
 | 268.350 | 309.350 | 41.000 | UFO 10       | 30 khz |                                 |
 | 268.450 | 297.150 | 28.700 | UFO 11       | 30 khz |                                 |
 | 268.950 | ?       | ?      | ?            | 30 khz |                                 |
-| 269.650 | 302.425 | 32.775 | UFO 11       | 30 khz |                                 |
+| 269.650 | 310.650 | 41.000 | UFO 11       | 30 khz |                                 |
 | 269.725 | 295.150 | 25.425 | UFO 11       | 30 khz |                                 |
 | 269.750 | 310.750 | 41.000 | UFO 10       | 30 khz |                                 |
 | 269.850 | 310.850 | 41.000 | UFO 10       | 30 khz | Brazil                          |
 | 269.925 | 295.550 | 25.625 | UFO 11       | 30 khz |                                 |
-| 269.950 | 310.950 | 41.000 | UFO 11       | 30 khz |                                 |
+| 269.950 | 294.325 | 24.375 | UFO 11       | 30 khz |                                 |
 
 
 --------
 
-Last Update: 17/07/2025
+Last Update: 02/12/2025
